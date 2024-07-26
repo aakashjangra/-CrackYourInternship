@@ -1,7 +1,7 @@
 // Problem link - https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
 
 // TC - O(n)
-// SC - O(n)
+// SC - O(1)
 import java.util.*;
 
 class LinkedList
